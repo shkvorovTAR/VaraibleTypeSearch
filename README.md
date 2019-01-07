@@ -1,4 +1,5 @@
 # VaraibleTypeSearch
+https://github.com/Anaga/TARvg17/tree/master/Conteiners/Conteiners/HomeWork
 TARgv17 Homework: Get Varaible type and number from ini file.
 
 You need to write a console application, that read and search varaible from input ini text file.
@@ -35,3 +36,4 @@ If we use dl_gsw.ini, and user start applicatin:
     0
     Good bay!
 
+В задании - Get Varaible нужно прочитать ини файл, и предложить пользователю поиск переменной по ее имени. Если переменная с таким именем есть в файле - то вывести ее тип и номер. 
